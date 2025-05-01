@@ -7,7 +7,7 @@ and displays price comparisons with potential savings — offering users alterna
 
 Installation Instructions
 Clone or download this repository:
-git clone https://github.com/your-username/baxus-extension.git
+git clone https://github.com/clemzyumoh/Baxus-Extension.git
 
 Navigate to the baxus-frontend folder:
 cd baxus-extension/baxus-frontend
