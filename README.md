@@ -5,6 +5,9 @@ bottle prices across several e-commerce websites and the BAXUS marketplace.
 When visiting supported websites, the extension scrapes bottle information, sends it to the backend for matching, 
 and displays price comparisons with potential savings — offering users alternative and potentially better deals on BAXUS.
 
+video link:
+https://www.loom.com/share/8f153ab4ec194dc39ec3f49aa2d3c13b?sid=d5b00f33-82d8-4956-ba84-c9a8695ee45b
+
 Installation Instructions
 Clone or download this repository:
 git clone https://github.com/clemzyumoh/Baxus-Extension.git
