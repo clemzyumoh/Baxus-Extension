@@ -64,7 +64,7 @@ Receives scraped data from the frontend.
 Matches products using a fuzzy matching algorithm.
 
 Sends back matched BAXUS product data and savings.
-
+Backend makes the process alot faster.I included .env file which contains mongodb url for easy access when file is downloaded.
 
 The frontend and backend communicate via API calls — the frontend sends scraped data to the backend, which queries MongoDB for matches and returns comparison results.
 
